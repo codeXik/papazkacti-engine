@@ -5,6 +5,6 @@
   "type": "module",
   "main": "src/index.js",
   "license": "MIT",
-  "scripts": { "test": "node --test test/" },
+  "scripts": { "test": "node --test test/engine.test.mjs" },
   "repository": { "type": "git", "url": "https://github.com/codeXik/papazkacti-engine.git" }
 }
