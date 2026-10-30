@@ -1,0 +1,10 @@
+{
+  "name": "papazkacti-engine",
+  "version": "1.0.0",
+  "description": "Papaz Kaçtı (Old Maid) kural motoru ve bilgisayar oyuncusu, bağımlılıksız",
+  "type": "module",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": { "test": "node --test test/" },
+  "repository": { "type": "git", "url": "https://github.com/codeXik/papazkacti-engine.git" }
+}
